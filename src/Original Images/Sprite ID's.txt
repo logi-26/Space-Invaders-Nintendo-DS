@@ -1,0 +1,12 @@
+
+
+ID - 0: playership
+ID - 1-30: aliens
+ID - 51-80: alien bullets
+ID - 32: player bullet
+ID - 33-35: barrier
+ID - 36: ufo
+ID - 
+ID - 37-39: giant aliens
+ID - 39-41: giant alien bullets
+

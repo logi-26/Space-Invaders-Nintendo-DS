@@ -1,0 +1,11 @@
+#define SFX_BEEP	0
+#define SFX_INVADER_KILLED	1
+#define SFX_LEVEL_COMPLETE	2
+#define MOD_MAIN_BACKGROUND	0
+#define MOD_MENU_BACKGROUND	1
+#define SFX_PLAYER_HIT	6
+#define SFX_SHOOT	7
+#define SFX_UFO	8
+#define MSL_NSONGS	2
+#define MSL_NSAMPS	9
+#define MSL_BANKSIZE	11
